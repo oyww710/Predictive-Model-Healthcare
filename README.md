@@ -1,17 +1,29 @@
 # Predictive-Model-Healthcare
 Toy Projects of building predictive models in healthcare
 
-## 1. [ Github Setup](#git)
-## 2. [ Python from Bittiger](#tiger)
-   ###  1. [Python Fundamentals](#fun)
-   ###  2. [Example of Predictive Model](#predict)
-   ###  3. [Other Topics using Python](#new)
+## 1. [ Predict Readmission using Diabetes Dataset](#diabete)
+
+[DataLink](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008#) 
+
+   ###  1. [Python Notebook](#Py1)
+   ###  2. [R Notebook](#R1)
+   
+## 2. [ Predict Medical Appointment No Shows](#appointment)
+
+[DataLink](https://www.kaggle.com/joniarroba/noshowappointments) 
+
+   ###  1. [Python Notebook](#Py2)
+   ###  2. [R Notebook](#R2)
+   
 ## 3. [ Python from Dataquest](#quest)
    ### 1. [Data Science](#science)
    ### 2. [Data Engineer](#engineer)
     
-<a name="git"></a>
-## 1. Github Setup
+<a name="diabete"></a>
+## 1. Predict Readmission using Diabetes Dataset
+
+<a name="Py1"></a>
+
 
 There is an example here below
 
@@ -40,8 +52,6 @@ Step 4: Mirror all documents in local to remote origin (your github address)
    ```bash
       $ git push --mirror https://code.savvysherpa.com/wouyang/Python-Tool-Box.git 
    ```
-
-There are two references here, [Reference 1](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) and [Reference 2](https://help.github.com/articles/adding-a-file-to-a-repository/)
 
 Step 5: How to do some changes and push back to your remote github?
 
@@ -76,23 +86,5 @@ And the changes will be commited to github.
 ### Python Fundamentals
 Click on this folder - [Python_Fundamentals] (https://code.savvysherpa.com/wouyang/Python-Tool-Box/tree/master/Python_Fundamentals)
 
-<a name="predict"></a>
-### Example of Predictive Model
 
-https://code.savvysherpa.com/wouyang/Python-Tool-Box/blob/master/Uber_Rider_Churn_Supervised_Learning.ipynb
-
-<a name="new"></a>
-### Other Topics using Python
-
-| Domain             | Folder/File|   Notebook Address   | 
-|--------------------|------------|----------------------|
-| NLP                | Folder     |                      |
-| Recommendation     | Folder     |                      | 
-|                    | Yes        |                      | 
-
-
-<a name="quest"></a>
-## 3. Python from Dataquest
-<a name="science"></a>
-### Data Science
 
